@@ -43,7 +43,7 @@ social_media:
   twitter: sabbirs93
   # unsplash: your_username
   # vk: your_username
-  # website: https://sabbirshawon.github.io/
+  website: https://sabbirshawon.github.io/
   # youtube: sabbirs93
 
 topics:
@@ -52,7 +52,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
   - name: JavaScript
-    image_url: https://images.app.goo.gl/aYA2puqYYns7BRsi6
+    image_url: https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png
     
   - name: NodeJS
     web_url: https://github.com/topics/nodejs
